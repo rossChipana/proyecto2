@@ -1,0 +1,50 @@
+C:\Users\LAB_3-PC\Desktop\programacion\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe.config
+C:\Users\LAB_3-PC\Desktop\programacion\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe
+C:\Users\LAB_3-PC\Desktop\programacion\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.pdb
+C:\Users\LAB_3-PC\Desktop\programacion\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+C:\Users\LAB_3-PC\Desktop\programacion\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+C:\Users\LAB_3-PC\Desktop\programacion\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+C:\Users\Windows 10\Desktop\Programacion 2\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Desktop\Programacion 2\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+C:\Users\Windows 10\Desktop\Programacion 2\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+C:\Users\Windows 10\Desktop\Programacion 2\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe.config
+C:\Users\Windows 10\Desktop\Programacion 2\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe
+C:\Users\Windows 10\Desktop\Programacion 2\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.pdb
+E:\adrian tu papa xd\Programacion 2\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+E:\adrian tu papa xd\Programacion 2\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+E:\adrian tu papa xd\Programacion 2\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe.config
+E:\adrian tu papa xd\Programacion 2\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe
+E:\adrian tu papa xd\Programacion 2\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.pdb
+E:\adrian tu papa xd\Programacion 2\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+C:\Users\LAB_3-PC\Desktop\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe.config
+C:\Users\LAB_3-PC\Desktop\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe
+C:\Users\LAB_3-PC\Desktop\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.pdb
+C:\Users\LAB_3-PC\Desktop\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+C:\Users\LAB_3-PC\Desktop\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+C:\Users\LAB_3-PC\Desktop\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+E:\Instituto Tecnologico Bolivia Mar\Programacion II\Segundo Bimestre\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+E:\Instituto Tecnologico Bolivia Mar\Programacion II\Segundo Bimestre\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+E:\Instituto Tecnologico Bolivia Mar\Programacion II\Segundo Bimestre\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe.config
+E:\Instituto Tecnologico Bolivia Mar\Programacion II\Segundo Bimestre\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe
+E:\Instituto Tecnologico Bolivia Mar\Programacion II\Segundo Bimestre\Proyecto_HCA\Proyecto_HCA\bin\Debug\Proyecto_HCA.pdb
+E:\Instituto Tecnologico Bolivia Mar\Programacion II\Segundo Bimestre\Proyecto_HCA\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+F:\Proyecto_HCA - Propiedades\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+F:\Proyecto_HCA - Propiedades\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+F:\Proyecto_HCA - Propiedades\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe.config
+F:\Proyecto_HCA - Propiedades\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe
+F:\Proyecto_HCA - Propiedades\Proyecto_HCA\bin\Debug\Proyecto_HCA.pdb
+F:\Proyecto_HCA - Propiedades\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+G:\Proyecto_HCA - Propiedades\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe.config
+G:\Proyecto_HCA - Propiedades\Proyecto_HCA\bin\Debug\Proyecto_HCA.exe
+G:\Proyecto_HCA - Propiedades\Proyecto_HCA\bin\Debug\Proyecto_HCA.pdb
+G:\Proyecto_HCA - Propiedades\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+G:\Proyecto_HCA - Propiedades\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+G:\Proyecto_HCA - Propiedades\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+G:\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+G:\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+G:\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+C:\Users\ASUS\Desktop\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
+C:\Users\ASUS\Desktop\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.pdb
+C:\Users\BIENVENIDOS\Desktop\listas\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.csprojResolveAssemblyReference.cache
+C:\Users\BIENVENIDOS\Desktop\listas\Proyecto_HCA - Propiedades - LISTAS\Proyecto_HCA\obj\Debug\Proyecto_HCA.exe
